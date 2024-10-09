@@ -11,13 +11,13 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main/CMSP.md"><img width="20%" alt="CMSP" title="CMSP" src="https://i.imgur.com/9RYlSj5.png"/></a>
+    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/main/CMSP.md"><img width="20%" alt="CMSP" title="CMSP" src="https://i.imgur.com/9RYlSj5.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main/KhanAcademy.md"><img width="20%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/vOqofAR.png"/></a>
+    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/main/KhanAcademy.md"><img width="20%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/vOqofAR.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main/SPeak.md"><img width="20%" alt="SPeak" title="SPeak" src="https://i.imgur.com/OzNkCvc.png"/></a>
+    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/main/SPeak.md"><img width="20%" alt="SPeak" title="SPeak" src="https://i.imgur.com/OzNkCvc.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main/Alura.md"><img width="20%" alt="Alura" title="Alura" src="https://i.imgur.com/pAkb0hV.png"/></a>
+    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/main/Alura.md"><img width="20%" alt="Alura" title="Alura" src="https://i.imgur.com/pAkb0hV.png"/></a>
     <br><br>
     <a href="#"><img src="https://komarev.com/ghpvc/?username=CMSP&style=for-the-badge&label=Views:&color=gray"/></a>
 </p>
