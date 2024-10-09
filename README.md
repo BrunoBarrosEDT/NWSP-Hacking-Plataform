@@ -1,5 +1,5 @@
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=0d1117&center=true&vCenter=true&repeat=false&width=435&height=30&lines=NWSP+Plataforma+Hacks"/>
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=30&lines=NWSP+Plataforma+Hacks"/>
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=0d1117&center=true&vCenter=true&repeat=false&width=435&height=30&lines=NWSP+Hacking+Plataform"/>
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=30&lines=NWSP+Hacking+Plataform"/>
 
 ---
 
