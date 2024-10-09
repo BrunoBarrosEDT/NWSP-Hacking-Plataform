@@ -3,21 +3,21 @@
 
 ---
 
-<p align="center"><strong>CMSP Plataforma Hacks</strong></p>
-<p align="center">Neste repositório, você irá encontrar scripts/websites para automatizar as tarefas do CMSP e de outras plataformas como Khan Academy, Alura e Speak.</p>
+<p align="center"><strong>NWSP Hacking Plataform</strong></p>
+<p align="center">"Neste repo, tu vai achar uns scripts e sites pra botar no piloto automático as tasks do CMSP e de outras plataformas tipo Khan Academy, Alura e Speak."</p>
 <br><br>
-<p align="center"><strong>Para começar a usar os scripts/websites, basta clicar no botão abaixo da plataforma que deseja utilizar</strong></p>
+<p align="center"><strong>Pra começar a rodar os scripts/sites, só clicar no botão da plataforma que tu quer usar. Simples assim!</strong></p>
 
 ---
 
 <p align="center">
-    <a href="https://github.com/DarkMod3/CMSP-Plataformas-Hacks/blob/Main/CMSP.md"><img width="20%" alt="CMSP" title="CMSP" src="https://i.imgur.com/9RYlSj5.png"/></a>
+    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main/CMSP.md"><img width="20%" alt="CMSP" title="CMSP" src="https://i.imgur.com/9RYlSj5.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/DarkMod3/CMSP-Plataformas-Hacks/blob/Main/KhanAcademy.md"><img width="20%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/vOqofAR.png"/></a>
+    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main/KhanAcademy.md"><img width="20%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/vOqofAR.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/DarkMod3/CMSP-Plataformas-Hacks/blob/Main/SPeak.md"><img width="20%" alt="SPeak" title="SPeak" src="https://i.imgur.com/OzNkCvc.png"/></a>
+    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main/SPeak.md"><img width="20%" alt="SPeak" title="SPeak" src="https://i.imgur.com/OzNkCvc.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/DarkMod3/CMSP-Plataformas-Hacks/blob/Main/Alura.md"><img width="20%" alt="Alura" title="Alura" src="https://i.imgur.com/pAkb0hV.png"/></a>
+    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main/Alura.md"><img width="20%" alt="Alura" title="Alura" src="https://i.imgur.com/pAkb0hV.png"/></a>
     <br><br>
     <a href="#"><img src="https://komarev.com/ghpvc/?username=CMSP&style=for-the-badge&label=Views:&color=gray"/></a>
 </p>
