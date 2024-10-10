@@ -11,4 +11,4 @@ javascript:fetch(`https://res.cloudinary.com/dq36xqdoe/raw/upload/v${Math.floor(
 
 ---
 
-<p align="center">$${\color{red}TUTORIAL \space EM \space BREVE}$$</p>
+<p align="center">$${\color{red}MESMO \space ESQUEMA \space QUE \space O \space KHAN \space ACADEMY}$$</p>
