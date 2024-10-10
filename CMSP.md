@@ -6,11 +6,13 @@
 <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=30&lines=CMSP+Tarefas"/>
 
 <div align="center">
-  <a href="https://brunobarrosedt.github.io/NWSPKiller/" target="_blank"><img src="https://img.shields.io/badge/-NWSP Killer-4169e1?style=for-the-badge&logo=htmx&logoColor=white"></a>
+  <a href="https://brunobarrosedt.github.io/NWSPKiller/" target="_blank"><img src="https://img.shields.io/badge/-NWSP Killer-4169e1?style=for-the-badge&logo=htmx&logoColor=white">
+&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://cmsp-cheeto-v2.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-CMSP Cheeto-4169e1?style=for-the-badge&logo=htmx&logoColor=white"></a>
 </div>
 
 <br>
 
 ---
 
-<p align="center">Website para realizar automaticamente as tarefas do CMSP (novas e expiradas). Para utilizá-lo, basta clicar no botão acima e seguir as instruções que estão lá!</p>
+<p align="center">Website para realizar automaticamente as tarefas do CMSP (novas e expiradas). Para utilizá-lo, basta clicar no botão acima e seguir as instruções que estão lá!<br><br><strong>( Créditos:  marcos10pc )</strong></p>
