@@ -20,9 +20,15 @@ javascript:alert(" \n\n⌊ NWSP Hacking Plataform INICIADO! ⌉\n\nAproveite p
 </div>
 
 <!-- Botão de uso alternativo -->
-<p align="center" style="margin-top: 20px;">
-  <a href="https://greasyfork.org/pt-BR/scripts/511438-khan-academy" style="display: inline-block; padding: 10px 20px; background-color: #0078d4; color: white; text-decoration: none; border-radius: 5px;">
-    Use este por enquanto, funcionando apenas em PC!
+<p align="center">
+  <a href="https://greasyfork.org/pt-BR/scripts/511438-khan-academy" style="text-decoration: none;">
+    <svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+      <rect width="200" height="50" rx="10" ry="10" style="fill:#0078d4;"/>
+      <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" fill="white" font-size="16" font-family="Arial" font-weight="bold">
+        Use este por enquanto, funcionando apenas em PC!
+      </text>
+    </svg>
   </a>
 </p>
+
 
