@@ -19,7 +19,6 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/main/Alura.md"><img width="20%" alt="Alura" title="Alura" src="https://i.imgur.com/pAkb0hV.png"/></a>
     <br><br>
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=CMSP&style=for-the-badge&label=Views:&color=gray"/></a>
 </p>
 
 ---
