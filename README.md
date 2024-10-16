@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main/CMSP.md"><img width="15%" alt="CMSP" title="CMSP" src="https://i.imgur.com/9RYlSj5.png"/></a>
+    <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/main/CMSP.md"><img width="15%" alt="CMSP" title="CMSP" src="https://i.imgur.com/9RYlSj5.png"/></a>
     &#8287;
     <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/main/KhanAcademy.md"><img width="15%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/vOqofAR.png"/></a>
     &#8287;
