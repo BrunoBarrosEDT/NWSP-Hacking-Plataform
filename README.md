@@ -21,7 +21,7 @@
     &#8287;
     <a href="https://github.com/BrunoBarrosEDT/NWSP-Hacking-Plataform/blob/Main//MeSalva.md"><img width="15%" alt="MeSalva" title="MeSalva" src="https://i.imgur.com/HNLmshc.png"/></a>
     <br><br>
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=NWSK&style=for-the-badge&label=Views:&color=gray"/></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=NWSP&style=for-the-badge&label=Views:&color=gray"/></a>
 </p>
 
 ---
