@@ -1,7 +1,11 @@
 ---
+title: "SPeak Hacks"
+description: "Instruções e links para usar os hacks da plataforma SPeak."
+date: 2024-10-16
+---
 
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=0d1117&center=true&vCenter=true&repeat=false&width=435&height=30&lines=SPeak"/>
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=30&lines=SPeak"/>
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=0d1117&center=true&vCenter=true&repeat=false&width=435&height=30&lines=SPeak"/></a>
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=30&lines=SPeak"/></a>
 <br><br>
 <div align="center"><a href="https://bit.ly/CMSP-Plataformas-Hacks"><img src="https://i.imgur.com/NTZU9ZY.png"></a></div>
 <br><br><br>
@@ -14,5 +18,5 @@
 ---
 
 <div align="center">
-  <a href="https://i.imgur.com/fXw3oCT.gif"><img width="30%" src="https://i.imgur.com/UQTwYYK.png"/>
+  <a href="https://i.imgur.com/fXw3oCT.gif"><img width="30%" src="https://i.imgur.com/UQTwYYK.png"/></a>
 </div>
