@@ -1,3 +1,8 @@
+---
+layout: default
+title: "CMSP Plataformas Hacks"
+---
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -184,10 +189,14 @@
                 }
                 const code = await response.text();
                 await navigator.clipboard.writeText(code);
-                alert(' \nScript copiado com sucesso!\n ');
+                alert(' 
+Script copiado com sucesso!
+ ');
             } catch (error) {
                 console.error('Erro:', error);
-                alert(' \nErro ao copiar o Script. Tente novamente.\n ');
+                alert(' 
+Erro ao copiar o Script. Tente novamente.
+ ');
             }
         }
 
